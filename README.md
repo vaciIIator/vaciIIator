@@ -1,13 +1,11 @@
 <div align="center">
 
    <img src="https://i.postimg.cc/prbKVL8x/export1791623147822.png">
-
+   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=30&pause=1000&color=EEE4DE&center=true&vCenter=true&width=435&lines=your%E3%80%80song%E3%80%80caught%E3%80%80my%E3%80%80ear)](https://git.io/typing-svg)
 
    <img  align=left src="https://i.postimg.cc/PqR2nD4h/export1791637515259.png">
    
- ${{\color{#0D1117}\small{\textsf{゛ ⸝⸝.ᐟ⋆}}}}$  
-
 <table>
   <tr>
       <td width="50%" valign="top">
