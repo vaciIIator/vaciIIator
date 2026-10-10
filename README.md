@@ -14,12 +14,19 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-texr
+      <td width="50%" valign="top">
+    <div align="center">
+
+ ![](https://komarev.com/ghpvc/?username=vaciiiator&label=𝜗ৎ%20&base=1293&color=8C7E87&style=flat-square)
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31eosxmshwcnwm3wuy63s2ai63ai&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=true&profanity=false&hide_remaster=false&bar_color=FFFFFF&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
   </tr>
 </table>
 
-![](https://i.postimg.cc/sgPMRJf0/image.webp) [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31eosxmshwcnwm3wuy63s2ai63ai&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=true&profanity=false&hide_remaster=false&bar_color=FFFFFF&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+![](https://i.postimg.cc/Kvt0d4w9/export1791632049140.png)
+
+![](https://i.postimg.cc/sgPMRJf0/image.webp)
 
 ![](https://i.postimg.cc/Kvt0d4w9/export1791632049140.png)
 
